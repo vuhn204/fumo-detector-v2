@@ -1,10 +1,10 @@
-# Pasos para ejecutar programa
+- Pasos para ejecutar programa
 
 conda create --name (nombre enviroment) python=3.12 -y
 
 conda activate (nombre enviroment)
 
-## Colocar la direccion de la carpeta después de clonarla e.g. -> cd C:\Users\USER\Documents\yolo\...
+- Colocar la direccion de la carpeta después de clonarla e.g. -> cd C:\Users\USER\Documents\yolo\...
 
 pip install label-studio # Solo si quieres modificar el dataset
 
